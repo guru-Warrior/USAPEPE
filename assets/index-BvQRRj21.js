@@ -19244,7 +19244,7 @@ function u5() {
                   textShadow: "1px 1px 0px rgba(255, 255, 255, 0.8)",
                 },
                 onClick: (f) => {
-                  window.open('https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon')
+                  window.open('https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xA6B2ed506e73538469B9c9a59442e33Aed3617b8')
                 },
                 onMouseEnter: (f) => {
                   const m = f.target;
@@ -22072,7 +22072,7 @@ function g5() {
                               color: "#004299",
                             },
                             children:
-                              "0xcomingsoon",
+                              "0xA6B2ed506e73538469B9c9a59442e33Aed3617b8",
                           }),
                         ],
                       }),
@@ -22334,7 +22334,7 @@ function y5() {
                 ],
               }),
               g.jsxs("a", {
-                href: "https://t.me/usapepe_vip",
+                href: "https://t.me/usapepe_fun",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -22366,7 +22366,7 @@ function y5() {
                 ],
               }),
               g.jsxs("a", {
-                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xA6B2ed506e73538469B9c9a59442e33Aed3617b8",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
