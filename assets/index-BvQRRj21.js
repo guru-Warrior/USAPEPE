@@ -19228,7 +19228,37 @@ function u5() {
                       "inset 0 2px 4px rgba(255, 255, 255, 0.3), inset 0 -2px 4px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.2)");
                 },
                 onClick: r,
-                children: "Mission",
+                children: "EXECUTIVE ORDER",
+              }),
+              g.jsx("button", {
+                className:
+                  "flex-1 text-black font-bold text-xl transition-all duration-200 flex items-center justify-center h-full border-r-2 border-black",
+                style: {
+                  fontFamily: "CCYouBlockhead, sans-serif",
+                  backgroundColor: "#f3f4f6",
+                  borderLeft: "2px solid #000000",
+                  borderRight: "2px solid #000000",
+                  borderBottom: "2px solid #000000",
+                  boxShadow:
+                    "inset 0 2px 4px rgba(255, 255, 255, 0.3), inset 0 -2px 4px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.2)",
+                  textShadow: "1px 1px 0px rgba(255, 255, 255, 0.8)",
+                },
+                onClick: (f) => {
+                  window.open('https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon')
+                },
+                onMouseEnter: (f) => {
+                  const m = f.target;
+                  (m.style.backgroundColor = "#fdce5c"),
+                    (m.style.boxShadow =
+                      "inset 0 1px 2px rgba(255, 255, 255, 0.2), inset 0 -1px 2px rgba(0, 0, 0, 0.2), 0 1px 3px rgba(0, 0, 0, 0.3)");
+                },
+                onMouseLeave: (f) => {
+                  const m = f.target;
+                  (m.style.backgroundColor = "#f3f4f6"),
+                    (m.style.boxShadow =
+                      "inset 0 2px 4px rgba(255, 255, 255, 0.3), inset 0 -2px 4px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.2)");
+                },
+                children: "BUY",
               }),
               g.jsx("button", {
                 className:
@@ -20401,19 +20431,19 @@ function f5() {
                   animate: { y: 0, opacity: 1 },
                   transition: { duration: 0.8, delay: 0.8 },
                   children: [
-                    "We're more than a meme, more than a clicker we're a movement.",
+                    "We're more than a meme, more than a token we're a revolution.",
                     g.jsx("br", {}),
                     g.jsx("br", {}),
-                    "America PEPE was built for those tired of seeing wasted potential.",
+                    "American PEPE was forged for patriots sick of global tyrants squandering freedom.",
                     g.jsx("br", {}),
                     g.jsx("br", {}),
-                    "It's a reminder that crying doesn't win battles, and complaining doesn't build futures.",
+                    "It's a rally cry that weakness loses wars, like Maduro's capture shows action triumphs.",
                     g.jsx("br", {}),
                     g.jsx("br", {}),
-                    "We're here for the doers. The builders. The fighters.",
+                    "We're rallying the warriors. The innovators. The rebels.",
                     g.jsx("br", {}),
                     g.jsx("br", {}),
-                    "Those who want to learn, understand, and take control of their own path in crypto.",
+                    "Folks eager to master, grasp, and seize their destiny in the crypto frontier.",
                   ],
                 }),
               }),
@@ -21310,7 +21340,7 @@ function m5() {
                           letterSpacing: "clamp(1px, 0.2vw, 2px)",
                           textShadow: "2px 2px 4px rgba(0, 0, 0, 0.1)",
                         },
-                        children: "OUR SACRED MISSION",
+                        children: "EXECUTIVE ORDER ON AMERICAN PEPE",
                       }),
                       g.jsxs("div", {
                         className: "text-black text-center",
@@ -21333,9 +21363,9 @@ function m5() {
                             animate: { opacity: 1 },
                             transition: { delay: 1.5, duration: 0.8 },
                             children: [
-                              "America PEPE is more than a meme it's a movement.",
+                              "WHEREAS, American PEPE is more than a meme—it's a huge movement, folks!",
                               g.jsx("br", {}),
-                              "Our mission is to unite people around a simple, powerful idea: that complaining changes nothing, but action can change everything.",
+                              "Our mission is to bring folks together around a big, winning idea: whining gets you nowhere, but real action wins everything.",
                             ],
                           }),
                           g.jsx(L.p, {
@@ -21351,7 +21381,7 @@ function m5() {
                             animate: { opacity: 1 },
                             transition: { delay: 1.8, duration: 0.8 },
                             children:
-                              "We're here to build a meme so strong it becomes a rallying cry, a symbol for those tired of seeing wasted potential and broken promises.",
+                              "We're building a meme so tough it turns into a battle cry, a badge for patriots sick of squandered chances and fake deals.",
                           }),
                           g.jsx(L.p, {
                             className: "leading-relaxed",
@@ -21366,7 +21396,7 @@ function m5() {
                             animate: { opacity: 1 },
                             transition: { delay: 2.1, duration: 0.8 },
                             children:
-                              "Through stories of hard work, resilience, and transformation, we want to open eyes and shift mindsets.",
+                              "With tales of grit, comeback, and total turnaround, we're gonna wake people up and flip their thinking.",
                           }),
                           g.jsx(L.p, {
                             className: "leading-relaxed",
@@ -21381,7 +21411,7 @@ function m5() {
                             animate: { opacity: 1 },
                             transition: { delay: 2.4, duration: 0.8 },
                             children:
-                              "To show that when people take control of their own lives, when they learn, build, and strive, they don't just fix themselves they help fix their communities.",
+                              "To prove that when Americans grab the reins of their fate, when they hustle, create, and push hard, they don't just save themselves—they rebuild their towns.",
                           }),
                           g.jsxs(L.p, {
                             className: "leading-relaxed",
@@ -21396,11 +21426,11 @@ function m5() {
                             animate: { opacity: 1 },
                             transition: { delay: 2.7, duration: 0.8 },
                             children: [
-                              "We believe that by spreading this message far and wide, by guiding and supporting those ready to rise, we can make a real difference.",
+                              "We know that by blasting this truth everywhere, by backing and lifting those geared to fight, we can create massive change.",
                               g.jsx("br", {}),
                               g.jsx("br", {}),
                               g.jsx("br", {}),
-                              "Together, we can prove that with the right mindset, a strong work ethic, and a clear purpose, we can build a better, freer, and more hopeful America.",
+                              "Together, we'll show that with the tough mindset, killer drive, and sharp goal, we can forge a stronger, freer, and brighter America—just like taking down tyrants like Maduro proves winners act fast.",
                             ],
                           }),
                           g.jsxs(L.p, {
@@ -21416,10 +21446,10 @@ function m5() {
                             animate: { opacity: 1 },
                             transition: { delay: 3, duration: 0.8 },
                             children: [
-                              "America PEPE is our way of telling the world don't wait for change.",
+                              "American PEPE is our shout to the globe: don't sit around for fixes.",
                               g.jsx("br", {}),
                               g.jsx("br", {}),
-                              "Make it happen.",
+                              "Get it done!",
                             ],
                           }),
                         ],
@@ -22269,18 +22299,10 @@ function y5() {
           g.jsxs("div", {
             className:
               "flex items-center justify-center space-x-8 py-4 relative z-10",
+            style: {gap: 20},
             children: [
-              g.jsx("span", {
-                className: "font-bold text-2xl",
-                style: {
-                  fontFamily: "CCYouBlockhead, sans-serif",
-                  color: "white",
-                  textShadow: "1px 1px 2px rgba(0, 0, 0, 0.3)",
-                },
-                children: "Contact us:",
-              }),
               g.jsxs("a", {
-                href: "https://x.com/liberals_tears",
+                href: "https://x.com/usapepe_vip",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -22307,7 +22329,71 @@ function y5() {
                   }),
                   g.jsx("span", {
                     className: "px-5",
-                    children: "@liberals_tears",
+                    children: "X",
+                  }),
+                ],
+              }),
+              g.jsxs("a", {
+                href: "https://t.me/usapepe_vip",
+                target: "_blank",
+                rel: "noopener noreferrer",
+                className:
+                  "bg-white px-6 py-3 rounded-lg font-bold text-lg transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:scale-105 transition-transform inline-flex items-center space-x-2 no-underline",
+                style: {
+                  fontFamily: "CCYouBlockhead, sans-serif",
+                  color: "#5fcafc",
+                  padding: "0 5px",
+                },
+                onMouseEnter: (o) => {
+                  o.currentTarget.style.color = "#55f5f5";
+                },
+                onMouseLeave: (o) => {
+                  o.currentTarget.style.color = "#5fcafc";
+                },
+                children: [
+                  g.jsx("svg", {
+                    className: "w-5 h-5",
+                    fill: "currentColor",
+                    viewBox: "0 0 24 24",
+                    children: g.jsx("path", {
+                      d: "M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z",
+                    }),
+                  }),
+                  g.jsx("span", {
+                    className: "px-5",
+                    children: "Telegram",
+                  }),
+                ],
+              }),
+              g.jsxs("a", {
+                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                target: "_blank",
+                rel: "noopener noreferrer",
+                className:
+                  "bg-white px-6 py-3 rounded-lg font-bold text-lg transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:scale-105 transition-transform inline-flex items-center space-x-2 no-underline",
+                style: {
+                  fontFamily: "CCYouBlockhead, sans-serif",
+                  color: "#5fcafc",
+                  padding: "0 5px",
+                },
+                onMouseEnter: (o) => {
+                  o.currentTarget.style.color = "#55f5f5";
+                },
+                onMouseLeave: (o) => {
+                  o.currentTarget.style.color = "#5fcafc";
+                },
+                children: [
+                  g.jsx("svg", {
+                    className: "w-5 h-5",
+                    fill: "currentColor",
+                    viewBox: "0 0 24 24",
+                    children: g.jsx("path", {
+                      d: "M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z",
+                    }),
+                  }),
+                  g.jsx("span", {
+                    className: "px-5",
+                    children: "DEXTools",
                   }),
                 ],
               }),
